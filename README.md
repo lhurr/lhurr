@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LH
 - 🌱 I’m currently studying data science, and getting started with Machine Learning
-- 📫 How to reach me: [limhur.ng@gmail.com](mailto:limhur.ng@gmail.com)
+- 📫 How to reach me: [here](mailto:limhur.ng@gmail.com)
 
 <!---
 lhurr/lhurr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lim Hur
+- 👋 Hi, I’m LH
 - 🌱 I’m currently studying data science, and getting started with Machine Learning
 - 📫 How to reach me: [limhur.ng@gmail.com](mailto:limhur.ng@gmail.com)
 

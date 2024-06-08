@@ -37,5 +37,5 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://media1.tenor.com/m/eYQ-0QopxJcAAAAd/beluga-cat.gif?raw=true');
+background: url('https://github.com/lhurr/lhurr/blob/main/cat.gif?raw=true');
 "]{}

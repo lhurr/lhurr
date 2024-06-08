@@ -1,8 +1,5 @@
-- 👋 Hi, I’m LH
-- 🌱 I’m currently studying data science, and getting started with Machine Learning
+- 🌱 Currently studying data science, and getting started with Machine Learning
 - 📫 How to reach me: [here](mailto:limhur.ng@gmail.com)
 
-<!---
-lhurr/lhurr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0px; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://github.com/Terristwj/Terristwj/blob/main/shooting_star.gif?raw=true');]{x0000}$}

@@ -36,5 +36,5 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://static.wikia.nocookie.net/beluga/images/d/da/V8z0crk5gho71.webp/revision/latest/scale-to-width-down/1000?cb=20221103210216?raw=true');
+background: url('https://i.pinimg.com/564x/c0/59/43/c0594394e3ab2998124d76fa2e73c068.jpg');
 "]{}

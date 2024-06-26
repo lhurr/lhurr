@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/lhurr"">
-      <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=0&random=false&width=435&multiline=true&lines=Lim+Hur;Aspiring+ML+Engineer&width=500&height=100&center=true" alt="SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Roboto&duration=1500&pause=0&random=false&width=435&multiline=true&lines=Lim+Hur;Aspiring+Data+Scientist&width=500&height=100&center=true" alt="SVG" />
   </a>
 </p>
 

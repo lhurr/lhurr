@@ -8,8 +8,8 @@
   </div>
 
 More about me:
-- Incoming MLOps Engineer @ TikTok/ByteDance
-- AI Engineer Intern @ AiChat (Part of reAlpha Group, NASDAQ: $AIRE)
+- Incoming MLOps Engineer Intern @ TikTok/ByteDance
+- AI Engineer Intern (Backend) @ AiChat (Part of reAlpha Group, NASDAQ: $AIRE)
 - Machine Learning Engineer Intern @ Institute of High Performance Computing, ASTAR
 - Paper Co-author @ IEEE Conference on AI 2024
 - Research Intern @ Institute of High Performance Computing, ASTAR

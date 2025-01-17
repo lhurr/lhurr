@@ -7,8 +7,18 @@
         <br/>
   </div>
 
-- 🌱 Currently learning Java, Machine Learning & grinding Leetcode
-- 📫 How to reach me: [here](mailto:limhur.ng@gmail.com)
+More about me:
+- Incoming MLOps Engineer @ TikTok/ByteDance
+- AI Engineer Intern @ AiChat (Part of reAlpha Group, NASDAQ: $AIRE)
+- Machine Learning Engineer Intern @ Institute of High Performance Computing, ASTAR
+- Paper Co-author @ IEEE Conference on AI 2024
+- Research Intern @ Institute of High Performance Computing, ASTAR
+- Software Engineer @ Data Science & Analytics Center
+
+
+Currently learning Java, Machine Learning & grinding Leetcode
+  
+Contact me at: [here](mailto:limhur.ng@gmail.com)
 
 <p align="left">
   <div align="left" >

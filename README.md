@@ -11,7 +11,7 @@ More about me:
 - Incoming MLOps Engineer Intern @ TikTok/ByteDance
 - AI Engineer Intern (Backend) @ AiChat (Part of reAlpha Group, NASDAQ: $AIRE)
 - Machine Learning Engineer Intern @ Institute of High Performance Computing, ASTAR
-- Paper Co-author @ IEEE Conference on AI 2024
+- Paper Co-author @ IEEE Conference on AI 2024 ([Paper](https://ieeexplore.ieee.org/document/10605409))
 - Research Intern @ Institute of High Performance Computing, ASTAR
 - Software Engineer @ Data Science & Analytics Center
 

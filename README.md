@@ -8,7 +8,7 @@
   </div>
 
 More about me:
-- Incoming NUS AI Safety Research Fellowship (Singapore AI Safety Institute)
+- Incoming AI Research Fellow @ NUS Technical AI Safety Fellowship (Singapore AI Safety Institute)
 - Incoming MLOps Engineer Intern @ TikTok/ByteDance
 - Backend Engineer Intern (AI) @ AiChat (Part of reAlpha Group, NASDAQ: $AIRE)
 - Machine Learning Engineer Intern @ Institute of High Performance Computing, ASTAR

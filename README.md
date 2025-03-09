@@ -8,7 +8,7 @@
   </div>
 
 More about me:
-- MLOps Engineer Intern @ TikTok/ByteDance [current]
+- MLOps Engineer Intern @ TikTok [current]
 - AI Safety Research Fellow @ NUS Technical AI Safety Fellowship (Singapore AI Safety Institute)
 - Student Researcher @ Institute of Data Science, NUS
 - AI Engineer Intern (Backend) @ AiChat (Part of reAlpha, Nasdaq: AIRE)
@@ -19,9 +19,6 @@ More about me:
 
 Certifications:
 - [Google Cloud Certified Professional Machine Learning Engineer](https://www.credly.com/badges/19edeac7-1703-4027-9a2b-4ce7da1e6974/public_url)
-- [Microsoft Certified: Azure AI Fundamentals](https://www.credly.com/badges/3de8e455-dfae-4029-80c5-cfa6822eab24)
-
-Currently learning about Java, large scale ML deployment & grinding Leetcode
   
 Contact me at: [here](mailto:limhur.ng@gmail.com)
 

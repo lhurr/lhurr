@@ -17,9 +17,7 @@ More about me:
 - Research Intern @ Institute of High Performance Computing, ASTAR
 - Software Engineer @ Data Science & Analytics Center
 
-Certifications:
-- [Google Cloud Certified Professional Machine Learning Engineer](https://www.credly.com/badges/19edeac7-1703-4027-9a2b-4ce7da1e6974/public_url)
-  
+
 Contact me at: [here](mailto:limhur.ng@gmail.com)
 
 <p align="left">

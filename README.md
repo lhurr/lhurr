@@ -9,8 +9,8 @@
 
 More about me:
 - MLOps Engineer Intern @ TikTok [current]
-- AI Safety Research Fellow @ NUS Technical AI Safety Fellowship (Singapore AI Safety Institute)
-- AI Engineer Intern (Backend) @ AiChat (Part of reAlpha, Nasdaq: AIRE)
+- Research Assistant @ NUS [current]
+- Software Engineer Intern @ AiChat (Part of reAlpha, Nasdaq: AIRE)
 - Machine Learning Engineer Intern @ Institute of High Performance Computing, ASTAR
 - Paper Co-author @ IEEE Conference on AI 2024 ([Paper](https://ieeexplore.ieee.org/document/10605409))
 - Research Intern @ Institute of High Performance Computing, ASTAR

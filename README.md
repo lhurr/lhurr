@@ -12,10 +12,10 @@ More about me:
 - Research Assistant @ NUS [current]
 - Software Engineer Intern @ AiChat (Part of reAlpha, Nasdaq: AIRE)
 - Machine Learning Engineer Intern @ Institute of High Performance Computing, ASTAR
-- Paper Co-author @ IEEE Conference on AI 2024 ([Paper](https://ieeexplore.ieee.org/document/10605409))
 - Research Intern @ Institute of High Performance Computing, ASTAR
 - Software Engineer @ Data Science & Analytics Center
 
+Publications: [Google Scholar](https://scholar.google.com/citations?user=6PZDAfAAAAAJ)
 
 Contact me at: [here](mailto:limhur.ng@gmail.com)
 

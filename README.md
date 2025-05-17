@@ -8,8 +8,8 @@
   </div>
 
 More about me:
-- MLOps Engineer Intern @ TikTok [current]
-- Research Assistant @ NUS [current]
+- MLOps Engineer Intern @ TikTok
+- Research Assistant @ NUS
 - Software Engineer Intern @ AiChat (Part of reAlpha, Nasdaq: AIRE)
 - Machine Learning Engineer Intern @ Institute of High Performance Computing, ASTAR
 - Research Intern @ Institute of High Performance Computing, ASTAR

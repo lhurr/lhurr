@@ -11,8 +11,8 @@ More about me:
 - MLOps Engineer Intern @ TikTok
 - Research Assistant @ NUS
 - Software Engineer Intern @ AiChat (Part of reAlpha, Nasdaq: AIRE)
-- Machine Learning Engineer Intern @ Institute of High Performance Computing, ASTAR
-- Research Intern @ Institute of High Performance Computing, ASTAR
+- Software Engineer Intern @ Institute of High Performance Computing, A\*STAR
+- Machine Learning/Research Intern @ Institute of High Performance Computing, A\*STAR
 - Software Engineer @ Data Science & Analytics Center
 
 Publications: [Google Scholar](https://scholar.google.com/citations?user=6PZDAfAAAAAJ)

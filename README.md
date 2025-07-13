@@ -2,18 +2,18 @@
 
   <div align='center'>
       <a href="https://github.com/lhurr">
-        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhurr&theme=react&langs_count=10&hide_progress=true" />
+        <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhurr&theme=react&langs_count=10&hide_progress=true" />
         <br/>
         <br/>
   </div>
 
 More about me:
 - Machine Learning Intern @ TikTok
-- Software Engineer @ NUS
+- Research Engineer @ NUS
 - Software Engineer Intern @ AiChat (Part of reAlpha, Nasdaq: AIRE)
 - Software Engineer Intern @ Institute of High Performance Computing, A\*STAR
 - Machine Learning/Research Intern @ Institute of High Performance Computing, A\*STAR
-- Software Engineer @ Data Science & Analytics Center
+- Software Developer @ Data Science & Analytics Center
 
 Publications: [Google Scholar](https://scholar.google.com/citations?user=6PZDAfAAAAAJ)
 

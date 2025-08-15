@@ -8,8 +8,9 @@
   </div>
 
 More about me:
+- Machine Learning Analyst @ NUS Fintech Society
 - Machine Learning Intern @ TikTok
-- Research Engineer @ NUS
+- Quant Research Assistant @ NUS
 - Software Engineer Intern @ AiChat (Part of reAlpha, Nasdaq: AIRE)
 - Software Engineer Intern @ Institute of High Performance Computing, A\*STAR
 - Machine Learning/Research Intern @ Institute of High Performance Computing, A\*STAR

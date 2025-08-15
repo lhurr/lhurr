@@ -13,7 +13,7 @@ More about me:
 - Quant Research Assistant @ NUS
 - Software Engineer Intern @ AiChat (Part of reAlpha, Nasdaq: AIRE)
 - Software Engineer Intern @ Institute of High Performance Computing, A\*STAR
-- Machine Learning/Research Intern @ Institute of High Performance Computing, A\*STAR
+- Machine Learning Intern @ Institute of High Performance Computing, A\*STAR
 - Software Developer @ Data Science & Analytics Center
 
 Publications: [Google Scholar](https://scholar.google.com/citations?user=6PZDAfAAAAAJ)

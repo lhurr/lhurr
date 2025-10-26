@@ -1,7 +1,7 @@
 Hi!
 
 **More about me:<br>**
-I'm currently having an internship at [Crypto.com](https://crypto.com). I have previously worked at [TikTok](https://www.tiktok.com/), [AiChat (Part of reAlpha, Nasdaq: AIRE)](https://www.aichat.com/), [NUS](https://nus.edu.sg/), [A*STAR’s Institute of High Performance Computing](https://www.a-star.edu.sg/ihpc), and the [Data Science & Analytics Center](https://www.sp.edu.sg/industry/centres/data-science---analytics-centre).
+I'm currently having an internship at [Crypto.com](https://crypto.com). I have previously worked at [TikTok](https://www.tiktok.com/), [AiChat (Nasdaq: AIRE)](https://www.aichat.com/), [NUS](https://nus.edu.sg/), [A*STAR’s Institute of High Performance Computing](https://www.a-star.edu.sg/ihpc), and the [Data Science & Analytics Center](https://www.sp.edu.sg/industry/centres/data-science---analytics-centre).
 
 
 Publications: [Google Scholar](https://scholar.google.com/citations?user=6PZDAfAAAAAJ)

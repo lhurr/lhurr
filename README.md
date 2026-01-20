@@ -1,8 +1,4 @@
-Hi!
-
-**More about me:<br>**
-I'm currently having an internship at [Crypto.com](https://crypto.com). I have previously worked at [TikTok](https://www.tiktok.com/), [AiChat (Nasdaq: AIRE)](https://www.aichat.com/), and the [Institute of High Performance Computing, Singapore](https://www.a-star.edu.sg/ihpc).
-
+Currently building [Brandcodes](https://brandcodes.io)
 
 Publications: [Google Scholar](https://scholar.google.com/citations?user=6PZDAfAAAAAJ)
 

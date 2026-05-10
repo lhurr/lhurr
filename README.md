@@ -1,8 +1,7 @@
-Currently building [Brandcodes](https://brandcodes.io)
+Open to applied ML, ML infra, and research roles, please reach out: limhur.ng@gmail.com
 
 Publications: [Google Scholar](https://scholar.google.com/citations?user=6PZDAfAAAAAJ)
 
-Contact me at: [here](mailto:limhur.ng@gmail.com)
 
 <p align="left">
   <div align="left" >

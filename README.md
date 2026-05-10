@@ -1,4 +1,4 @@
-Open to applied ML, ML infra, and research roles, please reach out: limhur.ng@gmail.com
+Open to ML engineering, ML infra, and research roles, please reach out: limhur.ng@gmail.com
 
 Publications: [Google Scholar](https://scholar.google.com/citations?user=6PZDAfAAAAAJ)
 

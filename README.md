@@ -1,4 +1,6 @@
-Open to ML engineering, ML infra, and research roles, please reach out: limhur.ng@gmail.com
+Interested in ML/AI/research engineering opportunities, please reach out: limhur.ng@gmail.com
+
+About me: [lhurr.github.io](https://lhurr.github.io)
 
 <p align="left">
   <div align="left" >
